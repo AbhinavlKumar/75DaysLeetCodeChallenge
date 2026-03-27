@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
@@ -88,5 +90,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
