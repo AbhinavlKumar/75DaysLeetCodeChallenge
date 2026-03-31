@@ -2,11 +2,14 @@ class MinStack {
 public:
     vector<int> st, mn;
 
-    MinStack() {}
+    MinStack() {
+        st.reserve(30000);
+        mn.reserve(30000);
+    }
 
     void push(int val) {
-        st.push_back(val);
-        if (mn.empty() || val <= mn.back()) mn.push_back(val);
+        st.emplace_back(val);
+        if (mn.empty() || val <= mn.back()) mn.emplace_back(val);
     }
 
     void pop() {
