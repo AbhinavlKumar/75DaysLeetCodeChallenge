@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
