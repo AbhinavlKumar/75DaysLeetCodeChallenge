@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0283-move-zeroes/) | Easy |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0141-linked-list-cycle/) | Easy |
+| [0169-majority-element](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
+| [0169-majority-element](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -74,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
