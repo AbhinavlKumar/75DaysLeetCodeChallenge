@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
+| [0200-number-of-islands](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0212-word-search-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0212-word-search-ii/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0036-valid-sudoku/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0200-number-of-islands](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0212-word-search-ii/) | Hard |
 | [0733-flood-fill](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0733-flood-fill/) | Easy |
 ## Linked List
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0200-number-of-islands/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0226-invert-binary-tree](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0733-flood-fill/) | Easy |
 ## Binary Tree
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0200-number-of-islands/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
