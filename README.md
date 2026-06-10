@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0057-insert-interval/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0075-sort-colors/) | Medium |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0016-3sum-closest/) | Medium |
 | [0049-group-anagrams](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
