@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0268-missing-number](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0322-coin-change/) | Medium |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0268-missing-number](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0278-first-bad-version/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
@@ -238,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0002-add-two-numbers/) | Medium |
 | [0070-climbing-stairs](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0268-missing-number](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -371,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0136-single-number](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0191-number-of-1-bits/) | Easy |
+| [0268-missing-number](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0338-counting-bits/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
