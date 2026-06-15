@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
+| [0067-add-binary](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0002-add-two-numbers/) | Medium |
+| [0067-add-binary](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0268-missing-number/) | Easy |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0191-number-of-1-bits/) | Easy |
@@ -412,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
