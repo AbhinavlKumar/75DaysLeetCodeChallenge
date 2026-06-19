@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0036-valid-sudoku/) | Medium |
+| [0042-trapping-rain-water](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0057-insert-interval/) | Medium |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0141-linked-list-cycle/) | Easy |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0042-trapping-rain-water](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0198-house-robber/) | Medium |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
