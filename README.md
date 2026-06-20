@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0015-3sum/) | Medium |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0191-number-of-1-bits/) | Easy |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
