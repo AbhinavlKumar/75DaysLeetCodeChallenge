@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0997-find-the-town-judge](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0997-find-the-town-judge/) | Easy |
 | [1046-last-stone-weight](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1046-last-stone-weight/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0011-container-with-most-water/) | Medium |
 | [0621-task-scheduler](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -442,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
