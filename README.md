@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1046-last-stone-weight](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1046-last-stone-weight/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0875-koko-eating-bananas/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0212-word-search-ii/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0733-flood-fill](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0733-flood-fill/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -377,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0322-coin-change/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0733-flood-fill](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0733-flood-fill/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -432,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0200-number-of-islands/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
