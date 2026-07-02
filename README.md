@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Hash Table
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1046-last-stone-weight](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1046-last-stone-weight/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0733-flood-fill](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0733-flood-fill/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0733-flood-fill](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0733-flood-fill/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -456,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0207-course-schedule/) | Medium |
 | [0997-find-the-town-judge](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0997-find-the-town-judge/) | Easy |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -495,4 +500,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
