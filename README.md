@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0997-find-the-town-judge](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0997-find-the-town-judge/) | Easy |
 | [1046-last-stone-weight](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1046-last-stone-weight/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
