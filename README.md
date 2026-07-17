@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0875-koko-eating-bananas/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -319,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0509-fibonacci-number](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -530,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -557,4 +564,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3620-network-recovery-pathways/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 <!---LeetCode Topics End-->
