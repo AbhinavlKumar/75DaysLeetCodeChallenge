@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0486-predict-the-winner](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0338-counting-bits/) | Easy |
+| [0486-predict-the-winner](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0486-predict-the-winner](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0394-decode-string/) | Medium |
+| [0486-predict-the-winner](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -615,4 +619,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
