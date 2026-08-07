@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0212-word-search-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0212-word-search-ii/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -594,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Counting Sort
