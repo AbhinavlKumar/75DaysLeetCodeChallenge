@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1510-stone-game-iv](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1510-stone-game-iv/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1510-stone-game-iv/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -649,12 +651,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1510-stone-game-iv/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
