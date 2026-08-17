@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1563-stone-game-v](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1563-stone-game-v/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1510-stone-game-iv](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1563-stone-game-v/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1563-stone-game-v/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2029-stone-game-ix/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
