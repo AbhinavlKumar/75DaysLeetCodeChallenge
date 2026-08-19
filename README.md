@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1563-stone-game-v](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1563-stone-game-v/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0011-container-with-most-water/) | Medium |
 | [0621-task-scheduler](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2029-stone-game-ix](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2029-stone-game-ix/) | Medium |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0371-sum-of-two-integers/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
