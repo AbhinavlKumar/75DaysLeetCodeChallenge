@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0875-koko-eating-bananas/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2029-stone-game-ix/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -634,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -672,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Game Theory
