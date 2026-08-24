@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1563-stone-game-v/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1872-stone-game-viii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1872-stone-game-viii/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2029-stone-game-ix/) | Medium |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1140-stone-game-ii/) | Medium |
+| [1872-stone-game-viii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1872-stone-game-viii/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1510-stone-game-iv](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1872-stone-game-viii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2029-stone-game-ix/) | Medium |
@@ -692,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
@@ -699,12 +704,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/AbhinavlKumar/75DaysLeetCodeChallenge/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
